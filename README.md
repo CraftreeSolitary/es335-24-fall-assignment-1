@@ -141,7 +141,3 @@ You must answer the subjectve questions (visualization,timing analysis, displayi
 1. Show your results in a Jupyter Notebook or an MD file. If you opt for using an MD file, you should also include the code.
 2. You can use the scikit-learn implementation of Decision Tree for the Human Activity Recognition.
 3. This assignment is of 20 marks and will be scaled down to 10 marks
-
-### Submission By
-Devansh Lodha
-Mohit Kamlesh Panchal
